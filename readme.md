@@ -1,5 +1,3 @@
-### README for GitHub Repository
-
 # Exploratory Data Analysis Challenge
 
 Welcome to the Exploratory Data Analysis Challenge on the Melbourne Housing Market dataset! This repository contains the code and analysis for the EDA challenge, where we explore and analyze the Melbourne Housing Market dataset to gain insights and build a simple linear regression model for property price prediction.
