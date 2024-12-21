@@ -30,6 +30,11 @@ The Melbourne Housing Market dataset contains information on various properties 
 - **Regionname**: The general region in Melbourne (west, north, south-east, etc.).
 - **Propertycount**: The number of properties in the suburb.
 
+### Where to Find the Dataset
+
+You can download the Melbourne Housing dataset from the following link:
+[Melbourne Housing Dataset](https://raw.githubusercontent.com/dipakila/Melbourne-Housing-Data-Kaggle/master/Data/Melbourne_housing_FULL.csv)
+
 ## Challenge Instructions
 
 1. **Import Required Libraries**: Import the necessary libraries, including pandas, numpy, matplotlib, and seaborn.
@@ -81,10 +86,5 @@ This repository contains the code and analysis for the Exploratory Data Analysis
 
 Feel free to explore the notebook and provide any feedback or suggestions. Happy analyzing!
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 **Note**: Replace `your-username` with your actual GitHub username in the clone URL.
